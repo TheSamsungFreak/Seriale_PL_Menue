@@ -20,6 +20,15 @@
 
 <channels> 
 <channel> 
+<name>[B]50 States of Fright[/B]</name> 
+<thumbnail>https://1428elm.com/files/image-exchange/2017/07/ie_56784.jpeg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/50_States_of_Fright.m3u</externallink> 
+<fanart>https://blackgirlnerds.com/wp-content/uploads/2020/04/Screen-Shot-2020-04-14-at-9.01.10-AM.png</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]A Teacher[/B]</name> 
 <thumbnail>http://de.web.img3.acsta.net/pictures/20/09/10/09/37/3517151.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/A_Teacher.m3u</externallink> 
@@ -110,7 +119,7 @@
 
 <channels> 
 <channel> 
-<name>[B]Chylka Inwigilacja[/B]</name> 
+<name>[B]Chylka - Inwigilacja[/B]</name> 
 <thumbnail>https://fwcdn.pl/fpo/73/34/867334/7947032.2.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Chylka_Inwigilacja.m3u</externallink> 
 <fanart>https://dziendobry.tvn.pl/media/cache/content_cover/cielecka-jpg-1.jpg</fanart> 
@@ -218,6 +227,15 @@
 
 <channels> 
 <channel> 
+<name>[B]Dickinson[/B]</name> 
+<thumbnail>http://de.web.img3.acsta.net/pictures/19/09/16/15/27/2267943.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Dickinson.m3u</externallink> 
+<fanart>https://s-cdn.serienjunkies.de/dickinson/hdtv.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Dom z Papieru[/B]</name> 
 <thumbnail>https://s6.ifotos.pl/img/domzpap2j_qswwpwr.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Dom_z_Papieru.m3u</externallink> 
@@ -231,6 +249,24 @@
 <thumbnail>https://de.web.img3.acsta.net/pictures/19/02/12/11/56/4356169.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Doom_Patrol.m3u</externallink> 
 <fanart>https://www.scifiscene.de/media/serie/doom-patrol/poster_default_w660_h330.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Dynastia[/B]</name> 
+<thumbnail>https://fwcdn.pl/fpo/37/60/93760/7187936.3.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Dynastia.m3u</externallink> 
+<fanart>https://klaudynamaciag.pl/wp-content/uploads/recenzja-dynastia-nowa.png</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Electric Dreams[/B]</name> 
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNGY4OTBiMTktMDM4Zi00MjVhLTgyNjctOGYzNGM5YzBlMjU5XkEyXkFqcGdeQXVyNjI4OTg2Njg@._V1_.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Electric_Dreams.m3u</externallink> 
+<fanart>https://images-na.ssl-images-amazon.com/images/I/A1KyBo22t3L._RI_.jpg</fanart> 
 <info></info> 
 </channel>
 
@@ -290,6 +326,15 @@
 
 <channels> 
 <channel> 
+<name>[B]Intelligence[/B]</name> 
+<thumbnail>https://s-cdn.serienjunkies.de/intelligence/poster/intelligence-season1-poster2.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Intelligence.m3u</externallink> 
+<fanart>https://media.paperblog.fr/i/712/7122749/intelligence-rien-nouveau-espions-nouvelles-s-L-SgSx7c.jpeg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Jak Rozpetalem II Wojnę światową[/B]</name> 
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/91wOqe2B30L._SL1500_.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Jak_Rozpetalem_II_Wojne_Swiatowa.m3u</externallink> 
@@ -312,6 +357,15 @@
 <thumbnail>https://de.web.img3.acsta.net/pictures/19/08/25/17/37/4704865.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Jett.m3u</externallink> 
 <fanart>https://elhorror.com.mx/wp-content/uploads/2020/07/Donde-mirar-Serie-en-linea-de-Jett.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Jordskott[/B]</name> 
+<thumbnail>https://assets.cdn.moviepilot.de/files/4be2d8ae7b99751a01cb23f300bc311e70f2ae8069e6a6f768a3c8beb317/limit/500/1000/jordskott-poster-01.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Jordskott.m3u</externallink> 
+<fanart>https://images-na.ssl-images-amazon.com/images/I/91b1c-GFihL._RI_.jpg</fanart> 
 <info></info> 
 </channel>
 
@@ -384,6 +438,24 @@
 <thumbnail>https://alltube.com.pl/static/img/covers/23353.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/List_do_Mojego_Idola_DEAR.m3u</externallink> 
 <fanart>https://is1-ssl.mzstatic.com/image/thumb/IUA7eMHRfHKyiL7xw-borg/1200x630.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Luck[/B]</name> 
+<thumbnail>http://de.web.img3.acsta.net/c_310_420/medias/nmedia/18/86/85/77/20012722.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Luck.m3u</externallink> 
+<fanart>https://bilder.fernsehserien.de/sendung/hr/v18757.png</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Lupin[/B]</name> 
+<thumbnail>http://de.web.img3.acsta.net/pictures/20/12/02/17/45/3103184.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Lupin.m3u</externallink> 
+<fanart>https://screenflash.io/wp-content/uploads/2021/01/Lupin-Omar-Sy-Netflix-1024x597.jpg</fanart> 
 <info></info> 
 </channel>
 
@@ -596,6 +668,16 @@
 
 <channels> 
 <channel> 
+<name>[B]Richard Ramirez: Polowanie na Seryjnego Mordercę[/B]</name> 
+<thumbnail>https://fwcdn.pl/fpo/70/29/867029/7939582.3.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Richard_Ramirez_Polowanie_na_Seryjnego_Morderce.m3u</externallink> 
+<fanart>https://img.ppe.pl/upload/hot/14/81/50/1160/440/1481509818.jpg</fanart> 
+<info></info> 
+</channel>
+
+
+<channels> 
+<channel> 
 <name>[B]Rysa[/B]</name> 
 <thumbnail>https://grupapolsat.pl/sites/default/files/rysa_plakat.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Rysa.m3u</externallink> 
@@ -727,6 +809,15 @@
 <thumbnail>https://fwcdn.pl/fpo/21/85/842185/7920842.6.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Szadz.m3u</externallink> 
 <fanart>https://i.ytimg.com/vi/IDLUyZapiBI/maxresdefault.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Szokujące Potrawy[/B]</name> 
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRimgWAl85jrhPmWLzuM9PRgFLQ_s8ul9M2Tg&usqp=CAU</thumbnail> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Szokujace_Potrawy.m3u</externallink> 
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRimgWAl85jrhPmWLzuM9PRgFLQ_s8ul9M2Tg&usqp=CAU</fanart> 
 <info></info> 
 </channel>
 
@@ -907,6 +998,15 @@
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZjhkNWM1NTQtODI4NS00NzllLTg1ODAtYjg3N2QxZjc3ZjRiXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Yellowstone.m3u</externallink> 
 <fanart>https://www.oracleglobe.com/wp-content/uploads/2019/09/91CTl8yIKZL._RI_.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Your Honor[/B]</name> 
+<thumbnail>https://image.tmdb.org/t/p/w1280/xWJZjIKPeEZhK3JRYKOe06yW6IU.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Your_Honor.m3u</externallink> 
+<fanart>https://s-cdn.serienjunkies.de/n/your-honor.jpg</fanart> 
 <info></info> 
 </channel>
 
