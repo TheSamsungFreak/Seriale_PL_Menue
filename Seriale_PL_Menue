@@ -83,6 +83,15 @@
 
 <channels> 
 <channel> 
+<name>[B]Chylka Inwigilacja[/B]</name> 
+<thumbnail>https://fwcdn.pl/fpo/73/34/867334/7947032.2.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Chylka_Inwigilacja.m3u</externallink> 
+<fanart>https://dziendobry.tvn.pl/media/cache/content_cover/cielecka-jpg-1.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Chylka - Kasacja[/B]</name> 
 <thumbnail>https://fwcdn.pl/fpo/34/67/843467/7904732.6.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Chylka_Kasacja.m3u</externallink> 
