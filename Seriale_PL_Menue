@@ -651,6 +651,15 @@
 
 <channels> 
 <channel> 
+<name>[B]Tajemnica Zawodowa[/B]</name> 
+<thumbnail>https://r-scale-ed.dcs.redcdn.pl/scale/o2/tvn/web-content/m/p24/i/9185f3ec501c674c7c788464a36e7fb3/d989fe3d-3627-4d1d-9869-7cca8b204581.jpg?type=1&srcmode=0&quality=65&dstw=315&dsth=467</thumbnail> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Tajemnica_Zawodowa.m3u</externallink> 
+<fanart>https://hdtvpolska.com/wp-content/uploads/2021/02/Tajemnica-zawodowa-serial-Player-ok%C5%82adka-1024x512.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Tajemnice Laketop[/B]</name> 
 <thumbnail>https://fwcdn.pl/fpo/37/26/633726/7864149.3.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Tajemnice_Laketop.m3u</externallink> 
