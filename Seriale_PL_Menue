@@ -714,6 +714,15 @@
 
 <channels> 
 <channel> 
+<name>[B]Upadek Królestwa - The Last Kingdom[/B]</name> 
+<thumbnail>https://s-cdn.serienjunkies.de/the-last-kingdom/poster/last-kingdom-season3-serienposter.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Upadek_Krolestwa.m3u</externallink> 
+<fanart>https://s-cdn.serienjunkies.de/the-last-kingdom/hdtv.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Upload[/B]</name> 
 <thumbnail>https://st.kp.yandex.net/images/film_iphone/iphone360_1127489.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Upload.m3u</externallink> 
