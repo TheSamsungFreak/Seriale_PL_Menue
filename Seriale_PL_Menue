@@ -20,6 +20,15 @@
 
 <channels> 
 <channel> 
+<name>[B]25 lat Niewinności.Sprawa Tomka Komendy[/B]</name> 
+<thumbnail>https://fwcdn.pl/fpo/43/42/844342/7930471.3.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/25_lat_Niewinnosci_Sprawa_Tomka_Komendy.m3u</externallink> 
+<fanart>https://d-pt.ppstatic.pl/kadry/k/r/1/2f/84/5f18b556455c2_o,size,1088x550,opt,w,q,71,h,7f5d64.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]50 States of Fright[/B]</name> 
 <thumbnail>https://1428elm.com/files/image-exchange/2017/07/ie_56784.jpeg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/50_States_of_Fright.m3u</externallink> 
