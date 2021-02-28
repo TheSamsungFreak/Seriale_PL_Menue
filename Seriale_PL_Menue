@@ -83,6 +83,15 @@
 
 <channels> 
 <channel> 
+<name>[B]Bastion - Stand[/B]</name> 
+<thumbnail>https://fwcdn.pl/fpo/33/43/823343/7939000.3.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Bastion_Stand.m3u</externallink> 
+<fanart>https://ostatniatawerna.pl/wp-content/uploads/2020/08/Bastion-The-Stand-2020-Stephen-King-730x519.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Berlinskie Psy / Dogs of Berlin[/B]</name> 
 <thumbnail>https://www.bravo.de/assets/field/image/dogs_of_berlin_netflix.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Berlinskie_Psy.m3u</externallink> 
@@ -200,6 +209,15 @@
 
 <channels> 
 <channel> 
+<name>[B]Cyd Waleczny[/B]</name> 
+<thumbnail>https://1.bp.blogspot.com/-J8aeNxJoFG4/X8UwSH3aN3I/AAAAAAABXXU/rBPQKuaHbjIobHqMytd_2Aht5hG3ouQgACLcBGAsYHQ/s1080/el%2Bcid_amazon.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Cyd_Waleczny.m3u</externallink> 
+<fanart>https://miro.medium.com/max/2880/0*K3I84UmsCfuN-Yno.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Czarne Chmury[/B]</name> 
 <thumbnail>https://static.punkt44.pl/grafika/produkty/midi/8801_0003.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Czarne_Chmury.m3u</externallink> 
@@ -267,6 +285,24 @@
 <thumbnail>https://fwcdn.pl/fpo/37/60/93760/7187936.3.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Dynastia.m3u</externallink> 
 <fanart>https://klaudynamaciag.pl/wp-content/uploads/recenzja-dynastia-nowa.png</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Ekipa[/B]</name> 
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Ekipa_DVD_case.jpg/250px-Ekipa_DVD_case.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Ekipa.m3u</externallink> 
+<fanart>https://media.wplm.pl/thumbs/a7d/OTYwL3VfMS9jY19lMjZlNi9wL3duYXMvcGhvdG8vMjAxNC0wOS82MjIvNDA1L2VraXBhLWlrb25hLXdwaXN1LTQwOXgzMDBfMS5qcGc=.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Ekstradycja[/B]</name> 
+<thumbnail>https://fwcdn.pl/fpo/66/71/36671/7525563.3.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Ekstradycja.m3u</externallink> 
+<fanart>https://www.press.pl/images/contents/photo_53097_1524903828_big.jpg</fanart> 
 <info></info> 
 </channel>
 
@@ -551,6 +587,15 @@
 
 <channels> 
 <channel> 
+<name>[B]Ognista Miłość - La Flamme[/B]</name> 
+<thumbnail>https://fr.web.img6.acsta.net/r_1280_720/pictures/20/10/06/08/33/1057925.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Ognista_Miłosc_La_Flamme.m3u</externallink> 
+<fanart>https://www.universfreebox.com/wp-content/uploads/2020/09/laflamme-800x450-c-default.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Okręt - Das Boot[/B]</name> 
 <thumbnail>https://csn.naekranie.pl/wp-content/uploads/2018/11/Okr%C4%99t-7.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Okret_Das_Boot.m3u</externallink> 
@@ -573,6 +618,24 @@
 <thumbnail>https://fwcdn.pl/fpo/66/14/736614/7766128.3.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Pakt.m3u</externallink> 
 <fanart>https://www.hbo.pl/pakt/wp-content/uploads/2016/05/main_desktop5-1.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Panna Scarlet i Komisarz[/B]</name> 
+<thumbnail>https://fwcdn.pl/fpo/29/11/852911/7930795.3.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Panna_Scarlet_i_Komisarz.m3u</externallink> 
+<fanart>https://i.ytimg.com/vi/E8NWS0xVVTw/maxresdefault.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Paradoks[/B]</name> 
+<thumbnail>http://www.film.gildia.pl/_n_/film/filmy/paradoks/poster-200.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Paradoks.m3u</externallink> 
+<fanart>http://www.opusfilm.com/sites/default/files/tv_productions/paradoks.jpg</fanart> 
 <info></info> 
 </channel>
 
@@ -641,6 +704,15 @@
 
 <channels> 
 <channel> 
+<name>[B]Prokurator[/B]</name> 
+<thumbnail>https://fwcdn.pl/fpo/45/97/734597/7720955.3.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Prokurator.m3u</externallink> 
+<fanart>https://s3.tvp.pl/images2/3/c/4/uid_3c4edcff48f53f8fb9f45acf9d6576cc1495185442553_width_318_play_0_pos_0_gs_0_height_189.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Protektor[/B]</name> 
 <thumbnail>https://i.wpimg.pl/0/389x600/i.wp.pl/a/f/film/008/16/62/0306216.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Protektor.m3u</externallink> 
@@ -684,6 +756,14 @@
 <info></info> 
 </channel>
 
+<channels> 
+<channel> 
+<name>[B]Równonoc - Equinox[/B]</name> 
+<thumbnail>https://cont2.naekranie.pl/media%2Fcache%2Farticle-cover%2F2021%2F01%2Frownoc_5ffdaa10cb803.jpeg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Rownonoc_Equinox.m3u</externallink> 
+<fanart>https://s6.ifotos.pl/img/equinoxjp_qqsrxpr.jpg</fanart> 
+<info></info> 
+</channel>
 
 <channels> 
 <channel> 
@@ -764,6 +844,15 @@
 <thumbnail>https://assets.upflix.pl/media/plakat/2016/sprawiedliwi-wydzial-kryminalny__300_427.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Sprawiedliwi.m3u</externallink> 
 <fanart>http://ipla-e2-16.pluscdn.pl/p/redb/3i/3i9obfby4u8jg45fyxhj7gss2n3iajh9.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Stacja Berlin[/B]</name> 
+<thumbnail>https://fwcdn.pl/fpo/37/50/753750/7747174.3.jpg</thumbnail> 
+<externallink>https://github.com/TheSamsungFreak/Seriale_PL_M3U/blob/main/Stacja_Berlin.m3u</externallink> 
+<fanart>https://seryjni.blog.polityka.pl/wp-content/uploads/2016/11/berlin-station-image-1200x630.jpg</fanart> 
 <info></info> 
 </channel>
 
