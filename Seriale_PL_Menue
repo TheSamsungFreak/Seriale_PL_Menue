@@ -551,6 +551,24 @@
 
 <channels> 
 <channel> 
+<name>[B]Mechanicy[/B]</name> 
+<thumbnail>https://s6.ifotos.pl/img/crewjpg_qqaweqq.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Mechanicy.m3u</externallink> 
+<fanart>https://bilder.fernsehserien.de/sendung/hr/the-crew.png</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]My, Dzieci z Dworca Zoo[/B]</name> 
+<thumbnail>https://fwcdn.pl/fpo/80/19/868019/7943677.3.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/My_Dzieci_z_Dworca_Zoo.m3u</externallink> 
+<fanart>https://assets.upflix.pl/media/n/1619/2021/neuauflage-eines-bestsellers-i-wir-kinder-vom-bahnhof-zoo-i-trailer__480_360.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Narcos[/B]</name> 
 <thumbnail>https://scdn.nflximg.net/images/9810/21939810.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Narcos.m3u</externallink> 
